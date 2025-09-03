@@ -12,6 +12,7 @@ source "$HOME/dotfiles/shell/aliases.sh"
 source "$HOME/dotfiles/shell/functions.sh"
 source "$HOME/dotfiles/shell/plugins.sh"
 source "$HOME/dotfiles/shell/conda.sh"
+source "$HOME/dotfiles/shell/.fzf.sh"
 
 
 # # If you come from bash you might have to change your $PATH.
