@@ -1,6 +1,15 @@
 ########################################
 # 用户别名
 ########################################
+
+# Easier navigation: .., ..., ...., ....., ~ and -
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias ~="cd ~" # `cd` is probably faster to type though
+alias -- -="cd -"
+
 # 文件操作
 alias ll='ls -alF'
 alias ls='ls -G'

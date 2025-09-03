@@ -7,11 +7,11 @@ plugins=(git bundler dotenv macos rake rbenv ruby)
 source $ZSH/oh-my-zsh.sh
 
 # 加载模块
-source "$HOME/dotfiles/shell/env.zsh"
-source "$HOME/dotfiles/shell/aliases.zsh"
-source "$HOME/dotfiles/shell/functions.zsh"
-source "$HOME/dotfiles/shell/plugins.zsh"
-source "$HOME/dotfiles/shell/conda.zsh"
+source "$HOME/dotfiles/shell/env.sh"
+source "$HOME/dotfiles/shell/aliases.sh"
+source "$HOME/dotfiles/shell/functions.sh"
+source "$HOME/dotfiles/shell/plugins.sh"
+source "$HOME/dotfiles/shell/conda.sh"
 
 
 # # If you come from bash you might have to change your $PATH.
