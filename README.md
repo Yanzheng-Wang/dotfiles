@@ -1,5 +1,6 @@
 # dotfiles
 
+配置是模仿[jonhoo](https://github.com/jonhoo/configs?tab=readme-ov-file)
 
 [配置文件由GNU Stow](https://www.gnu.org/software/stow/)管理。每个顶级目录代表一组配置，你可以使用以下命令“安装”（通过符号链接）一组配置
 ```
